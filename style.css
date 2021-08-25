@@ -1,0 +1,431 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.intro {
+  display: flex;
+}
+.award {
+  padding-top: 243px;
+  padding-left: 376px;
+  font-size: 30px;
+  text-align: left;
+  font: normal bold 30px Cormorant SC, serif;
+  letter-spacing: 0px;
+  color: #ff3147;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.digital_market {
+  padding-top: 39px;
+  padding-left: 376px;
+  font-size: 60px;
+  text-align: left;
+  font: normal bold 60px/80px Cormorant SC, serif;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: bold uppercase;
+  opacity: 1;
+}
+.first_para {
+  padding-top: 50px;
+  padding-left: 375px;
+  font-size: 60px;
+  text-align: left;
+  font: normal normal 16px/30px Poppins, serif;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.contact_button {
+  width: 160px;
+  height: 50px;
+  background: #ff3147 0% 0% no-repeat padding-box;
+  border-radius: 0px;
+  opacity: 1;
+  border-color: transparent;
+}
+button {
+  color: white;
+  margin-left: 376px;
+  margin-top: 60px;
+}
+
+.intro_img {
+  margin-left: 50px;
+  margin-top: 100px;
+}
+
+/* what we do section starts here */
+.second_tab {
+  background: #fafafa 0% 0% no-repeat padding-box;
+  opacity: 1;
+  margin-top: 100px;
+}
+
+.services {
+  display: flex;
+  margin-left: 373px;
+  margin-right: 372px;
+}
+
+.services h3 {
+  margin-top: 100px;
+  width: 156px;
+  height: 24px;
+  text-align: left;
+  font: normal normal 600 24px/26px Cormorant SC;
+  letter-spacing: 0px;
+  color: #ff3147;
+  opacity: 1;
+}
+
+.services h2 {
+  width: 442px;
+  height: 110px;
+  text-align: left;
+  font: normal normal bold 45px/65px Cormorant SC;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  opacity: 1;
+  margin: 0;
+}
+
+.services p {
+  margin-top: 111px;
+  width: 584px;
+  height: 83px;
+  text-align: left;
+  font: normal normal normal 16px/30px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.services_img {
+  margin-left: 373px;
+}
+
+.services_img img {
+  width: 370px;
+  height: 526px;
+  margin-top: 60px;
+  padding-right: 30px;
+  margin: 0;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.carousel-indicators {
+  position: relative;
+  margin-right: 1350px;
+}
+
+.carousel-indicators img {
+  padding-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+/* third tap css starts here */
+
+.choose_us h3 {
+  margin: 0;
+  margin-top: 100px;
+  text-align: center;
+  font: normal normal 600 24px/26px Cormorant SC;
+  letter-spacing: 0px;
+  color: #ff3147;
+  opacity: 1;
+}
+
+.choose_us h2 {
+  margin: 0;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  text-align: center;
+  font: normal normal bold 45px/65px Cormorant SC;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.why_we_are_best {
+  display: flex;
+  margin-left: 373px;
+  margin-right: 389px;
+}
+
+.why_we_are_best h3 {
+  padding-top: 20px;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 80px;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.why_we_are_best p {
+  padding-right: 40px;
+  text-align: left;
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+/* Tab fourth css starts here */
+.our_project h3 {
+  margin: 0;
+  margin-top: 100px;
+  text-align: center;
+  font: normal normal 600 24px/26px Cormorant SC;
+  letter-spacing: 0px;
+  color: #ff3147;
+  opacity: 1;
+}
+
+.our_project h2 {
+  margin: 0;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  text-align: center;
+  font: normal normal bold 45px/65px Cormorant SC;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.tab_four {
+  display: flex;
+}
+
+.tab_four img {
+  padding-left: 375px;
+  padding-right: 30px;
+}
+
+.tab_four-column_1 {
+  background-color: #f6f6f6;
+  width: 370px;
+  height: 189px;
+}
+
+.tab_four-column_2 {
+  background-color: #ff3147;
+  width: 370px;
+  height: 189px;
+}
+
+.tab_four h3 {
+  padding-left: 20px;
+  text-align: left;
+  font-family: Poppins;
+  font-size: 20px;
+  line-height: 80px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.tab_four p {
+  width: 293px;
+  height: 79px;
+  padding-left: 20px;
+  text-align: left;
+  font: normal normal normal 16px/28px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.tab_four-column_2 h3 {
+  color: #ffffff;
+}
+
+.tab_four-column_2 p {
+  color: #ffffff;
+}
+
+/* tab five css starts here */
+.experts_div {
+  background-color: #fafafa;
+}
+
+.experts_growts h3 {
+  margin: 0;
+  margin-top: 100px;
+  padding-top: 120px;
+  text-align: center;
+  font: normal normal 600 24px/26px Cormorant SC;
+  letter-spacing: 0px;
+  color: #ff3147;
+  opacity: 1;
+}
+
+.experts_growts h2 {
+  margin: 0;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  text-align: center;
+  font: normal normal bold 45px/65px Cormorant SC;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.cardboxes {
+  display: flex;
+  flex-direction: row;
+  padding-left: 375px;
+  padding-bottom: 100px;
+  background-color: #fafafa;
+}
+.card_box {
+  width: 270px;
+  height: 233px;
+  background-color: #ffffff;
+  margin-right: 30px;
+}
+
+.cardboxes img {
+  width: 39px;
+  height: 34px;
+  margin-top: 34px;
+  margin-left: 115px;
+
+  margin-bottom: 9px;
+}
+
+.cardboxes h2 {
+  text-align: center;
+  font: normal normal 300 60px/65px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.cardboxes p {
+  text-align: center;
+  font: normal normal 300 20px/80px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.card_box:hover {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 3px 6px 20px #672c2c1f;
+  opacity: 1;
+}
+
+/* tab six css starts here */
+
+.clients_feedback h3 {
+  margin: 0;
+  margin-top: 100px;
+  text-align: center;
+  font: normal normal 600 24px/26px Cormorant SC;
+  letter-spacing: 0px;
+  color: #ff3147;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.clients_feedback h2 {
+  text-align: center;
+  margin-top: 40px;
+  font: normal normal bold 45px/65px Cormorant SC;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.clients_feedback img {
+  margin-left: 535px;
+  position: relative;
+}
+
+.clients_feedback p,
+img {
+  display: inline;
+}
+
+.clients_feedback p {
+  position: absolute;
+  /* top: 4310px; */
+  /* margin-left: 554px; */
+  width: 831px;
+  height: 62px;
+  text-align: left;
+  font: normal normal normal 20px/34px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.jannat {
+  float: left;
+  padding-left: 375px;
+}
+
+.quote h4 {
+  text-align: left;
+  font: normal normal bold 20px/34px Poppins;
+  letter-spacing: 0px;
+  color: #ff3147;
+  opacity: 1;
+}
+
+h5 {
+  text-align: left;
+  font: normal normal 300 20px/34px Poppins;
+  letter-spacing: 0px;
+  color: #808080;
+  opacity: 1;
+}
+
+h4,
+h5 {
+  display: inline;
+}
+​
+
+
+
+/* seventh tab css starts here */
+
+.no_path {
+  margin-top: 100px;
+}
+
+.no_path_img {
+  position: relative;
+}
+.group_500 {
+  position: absolute;
+  top: 5600px;
+  padding-left: 375px;
+}
